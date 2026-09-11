@@ -1,48 +1,35 @@
-# 💫 About Me:
-### 🚀 About Me
+# Danish Siddiqui
 
-```bash
-> whoami
-Security Engineer | Application & Cloud Security | Offensive Security Practitioner
+**Senior Product Security Engineer · Founding security engineer at Licious**
 
-```
-🔭 I’m currently working on<br>Building and scaling Product Security programs across AppSec, Cloud Security, DevSecOps, Bug Bounty, and Compliance as a first security hire.<br><br>👯 I’m looking to collaborate on<br>Application security, cloud attack-path analysis, open-source security tooling, and vulnerability research.<br><br>🤝 I’m looking for help with<br>Advanced cloud exploitation scenarios, large-scale attack surface correlation, and security automation at scale.<br><br>🌱 I’m currently learning<br>Advanced cloud threat modeling, Kubernetes security, and security for AI/LLM-powered systems.<br><br>💬 Ask me about<br>Application & API security, AWS/Azure security, bug bounty operations, CVE research, DevSecOps pipelines, and building security programs from scratch.<br><br>⚡ Fun fact<br>I’ve earned 160+ Hall of Fame mentions and multiple CVEs by breaking real-world systems—and then helping teams fix them properly.
+I build product security programs across application security, cloud infrastructure, and software delivery. My work connects finding a problem with the engineering decisions, ownership, and verification needed to fix it.
 
+[Portfolio](https://djvirus9.github.io/) · [Résumé](https://djvirus9.github.io/assets/Danish_Siddiqui_Security_Engineer_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/djvirus9) · [Email](mailto:danishismyname1@gmail.com)
 
-## 🌐 Socials:
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/djvirus9)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/djvirus999)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-siddiqui-bb0793197/)
+## Open-source work
 
+| Project | What you can use or inspect |
+| --- | --- |
+| **[SecOps Dashboard](https://github.com/djvirus9/secops-dashboard)** | A self-hosted workspace for importing, deduplicating, and triaging scanner findings. FastAPI, Next.js, and PostgreSQL, with team access controls and a documented threat model. [Try the sample workflow](https://djvirus9.github.io/case-studies/secops-dashboard/#secops-demo). |
+| **[DevSecOps Roadmap](https://github.com/djvirus9/awesome-devsecops-mastery-2026)** | Practical guides, labs, pipeline examples, and templates spanning local checks, CI gates, supply chain controls, and runtime detection. |
+| **[Security portfolio](https://github.com/djvirus9/djvirus9.github.io)** | Engineering case studies, public vulnerability research, and interactive project walkthroughs. [Explore the work](https://djvirus9.github.io/case-studies/). |
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF3300?style=for-the-badge&logo=burp-suite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)  ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=djvirus9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=djvirus9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=djvirus9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Selected engineering work
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=djvirus9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- **[Product Security at Licious](https://djvirus9.github.io/case-studies/licious-product-security/):** established the security function across AppSec, AWS controls, vulnerability management, bug bounty operations, and governance.
+- **[CyberShield360 at Invia](https://djvirus9.github.io/case-studies/cybershield360/):** designed product architecture and the security workflow for an attack surface management product, and helped take it to launch.
+- **[Security in the delivery pipeline](https://djvirus9.github.io/case-studies/devsecops-pipeline/):** integrated Semgrep and Trivy, tuned findings, and introduced enforcement based on confidence and risk.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Research and writing
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=djvirus9&limit=5&theme=dark&combine_all_yearly_contributions=true)
+My [selected CVEs](https://djvirus9.github.io/cves/) link to public advisories and publisher acknowledgments.
 
----
-[![](https://visitcount.itsvg.in/api?id=djvirus9&icon=0&color=0)](https://visitcount.itsvg.in)
+- [When an image upload becomes executable content](https://djvirus9.github.io/blog/svg-upload-trust-boundaries/) — Traccar research and the SVG upload trust boundary.
+- [The trust boundary in a CSV export](https://djvirus9.github.io/blog/csv-export-trust-boundaries/) — how exported data can become active spreadsheet content.
+- [LLM security and the OWASP Top 10](https://djvirus9.github.io/blog/llm-security-owasp-top10/) — writing published on the Halodoc engineering blog.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Work with me
+
+Based in Bengaluru, India, and open to global opportunities in Product Security, AppSec, Cloud Security, and security engineering leadership. I also welcome collaboration on open-source security tooling and practical research.
+
+[Get in touch](mailto:danishismyname1@gmail.com) · [Community and recognition](https://djvirus9.github.io/community/)
