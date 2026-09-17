@@ -10,8 +10,8 @@ I build product security programs across application security, cloud infrastruct
 
 | Project | What you can use or inspect |
 | --- | --- |
-| **[SecOps Dashboard](https://github.com/djvirus9/secops-dashboard)** | A self-hosted workspace for importing, deduplicating, and triaging scanner findings. FastAPI, Next.js, and PostgreSQL, with team access controls and a documented threat model. [Try the sample workflow](https://djvirus9.github.io/case-studies/secops-dashboard/#secops-demo). |
-| **[DevSecOps Roadmap](https://github.com/djvirus9/awesome-devsecops-mastery-2026)** | Practical guides, labs, pipeline examples, and templates spanning local checks, CI gates, supply chain controls, and runtime detection. |
+| **[SecOps Dashboard](https://github.com/djvirus9/secops-dashboard)** | A self-hosted workspace for importing, deduplicating, and triaging scanner findings. FastAPI, Next.js, and PostgreSQL, with team access controls and a documented threat model. [Latest published release](https://github.com/djvirus9/secops-dashboard/releases/latest) · [Interactive walkthrough with synthetic data](https://djvirus9.github.io/case-studies/secops-dashboard/#secops-demo). |
+| **[DevSecOps Reference](https://github.com/djvirus9/awesome-devsecops-mastery-2026)** | An executable learning reference connecting API tests, CI gates, supply-chain evidence, Kubernetes policy, and incident response, with practical guides and assessment templates. [Published release](https://github.com/djvirus9/awesome-devsecops-mastery-2026/releases/latest) · [CI runs and validation artifacts](https://github.com/djvirus9/awesome-devsecops-mastery-2026/actions). |
 | **[Security portfolio](https://github.com/djvirus9/djvirus9.github.io)** | Engineering case studies, public vulnerability research, and interactive project walkthroughs. [Explore the work](https://djvirus9.github.io/case-studies/). |
 
 ## Selected engineering work
